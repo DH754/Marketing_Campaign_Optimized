@@ -59,7 +59,7 @@ Churn Risk:
 Basic subscribers in low-revenue regions (e.g., India, South Africa) may have higher churn rates due to lower perceived value.
 Premium subscribers in high-income regions (e.g., Canada, Germany) show strong retention and revenue growth.
 
-# Marketing Strategies
+2. . . . Marketing Strategies
 
 For Basic Subscribers
 
@@ -95,7 +95,7 @@ Expand marketing efforts to untapped regions.
 Partner with local telecom providers to offer bundled internet and Netflix packages.
 
 
-# Content Recommendations:
+3 . . . Content Recommendations:
 Use AI-driven algorithms to suggest content based on viewing history and preferences.
 
 Email and Push Notifications:
@@ -108,7 +108,7 @@ Feedback Loops:
 Regularly survey subscribers to understand their preferences and pain points.
 
 
-# Future Considerations 
+4. . . . Future Considerations 
 
 Track key metrics like Customer Lifetime Value (CLV), churn rate, and acquisition cost.
 Use A/B testing to refine marketing campaigns and improve conversion rates.
