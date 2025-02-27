@@ -24,9 +24,9 @@ Premium	Russia	2021-04-03	2400
 Standard	South Africa	2023-03-22	700
 Explanation of Columns:
 
-Subscription Type: The type of Netflix subscription (Basic, Standard, Premium).
+Subscription Type: The type of streaming service subscription (Basic, Standard, Premium).
 Geographical Location: The country where the subscriber is located.
-Join Date: The date the subscriber joined Netflix
+Join Date: The date the subscriber joined streaming service provider 
 Segment customers by subscription type, region, and revenue.
 
 # Objective 
@@ -115,7 +115,7 @@ Invest in localized content to attract and retain subscribers.
 Offer flexible payment options (e.g., mobile billing) to cater to diverse payment preferences.
 Africa:
 Expand marketing efforts to untapped regions.
-Partner with local telecom providers to offer bundled internet and Netflix packages.
+Partner with local telecom providers to offer bundled internet and streaming provider packages.
 4. Retention and Engagement Strategies
 
 # Content Recommendations:
@@ -133,4 +133,4 @@ Regularly survey subscribers to understand their preferences and pain points.
 Track key metrics like Customer Lifetime Value (CLV), churn rate, and acquisition cost.
 Use A/B testing to refine marketing campaigns and improve conversion rates.
 Continuously update content libraries to meet evolving customer preferences.
-By segmenting customers, analyzing trends, and implementing targeted strategies, Netflix can optimize its marketing efforts, improve retention, and drive revenue growth.
+By segmenting customers, analyzing trends, and implementing targeted strategies, streaming provider can optimize its marketing efforts, improve retention, and drive revenue growth.
