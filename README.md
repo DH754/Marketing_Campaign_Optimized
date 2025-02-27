@@ -37,31 +37,7 @@ Here’s a structured approach to segmenting customers, analyzing trends, and de
 
 # Results 
 
-1. Segment Customers
-
-By Subscription Type
-
-Basic: Customers with lower revenue contribution but potentially higher volume.
-Standard: Mid-tier customers with moderate revenue contribution.
-Premium: High-value customers contributing significantly to revenue.
-By Region
-
-North America: United States, Canada, Mexico.
-Europe: United Kingdom, Germany, France, Spain, Italy, Russia.
-Asia-Pacific: Australia, India, Japan, South Korea.
-Latin America: Brazil.
-Africa: South Africa.
-By Revenue Contribution
-
-Low Revenue: < $1,000.
-Medium Revenue: 
-1
-,
-000
-−
-1,000−2,000.
-High Revenue: > $2,000.
-2. Analyze Acquisition and Retention Trends Over Time
+1. . . . Retention Trends Over Time 
 
 Acquisition Trends
 
@@ -82,7 +58,8 @@ Newer subscribers (2023) show lower revenue contributions, suggesting a need for
 Churn Risk:
 Basic subscribers in low-revenue regions (e.g., India, South Africa) may have higher churn rates due to lower perceived value.
 Premium subscribers in high-income regions (e.g., Canada, Germany) show strong retention and revenue growth.
-3. Develop Targeted Marketing Strategies
+
+# Marketing Strategies
 
 For Basic Subscribers
 
@@ -115,18 +92,21 @@ Invest in localized content to attract and retain subscribers.
 Offer flexible payment options (e.g., mobile billing) to cater to diverse payment preferences.
 Africa:
 Expand marketing efforts to untapped regions.
-Partner with local telecom providers to offer bundled internet and streaming provider packages.
-4. Retention and Engagement Strategies
+Partner with local telecom providers to offer bundled internet and Netflix packages.
+
 
 # Content Recommendations:
 Use AI-driven algorithms to suggest content based on viewing history and preferences.
+
 Email and Push Notifications:
 Send personalized reminders for new releases and exclusive content.
+
 Community Building:
 Create online forums or social media groups for fans to discuss shows and movies.
+
 Feedback Loops:
 Regularly survey subscribers to understand their preferences and pain points.
-5. Monitor and Optimize
+
 
 # Future Considerations 
 
